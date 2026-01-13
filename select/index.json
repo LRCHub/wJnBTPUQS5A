@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "base_track": "Alan Walker - The Spectre",
+  "base_artist": "Alan Walker",
+  "createdAt": "2026-01-13T07:12:10.898615Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "After the Afterparty (Alan Walker Remix)",
+      "artist": "Charli XCX feat. Lil Yachty",
+      "has_synced": true,
+      "path": "select/01_After_the_Afterparty_(Alan_Walker_Remix)_Charli_XCX_feat._Lil_Yachty.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "After the Afterparty (feat. Lil Yachty) (Alan Walker Remix)",
+      "artist": "Charli XCX;Lil Yachty",
+      "has_synced": true,
+      "path": "select/02_After_the_Afterparty_(feat._Lil_Yachty)_(Alan_Walker_Remix)_Charli_XCX;Lil_Yachty.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Legends Never Die (Alan Walker Remix)",
+      "artist": "League of Legends feat. Alan Walker, Against The Current & Mako",
+      "has_synced": true,
+      "path": "select/03_Legends_Never_Die_(Alan_Walker_Remix)_League_of_Legends_feat._Alan_Walker,_Against_The_Current_&_Mako.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Legends Never Die (Alan Walker Remix)",
+      "artist": "League of Legends;Alan Walker;Against The Current;Mako",
+      "has_synced": true,
+      "path": "select/04_Legends_Never_Die_(Alan_Walker_Remix)_League_of_Legends;Alan_Walker;Against_The_Current;Mako.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Strongest (Alan Walker Remix)",
+      "artist": "Ina Wroldsen",
+      "has_synced": true,
+      "path": "select/05_Strongest_(Alan_Walker_Remix)_Ina_Wroldsen.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Move Your Body (Alan Walker Remix)",
+      "artist": "Sia",
+      "has_synced": true,
+      "path": "select/06_Move_Your_Body_(Alan_Walker_Remix)_Sia.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Stranger Things (Alan Walker Remix)",
+      "artist": "Kygo",
+      "has_synced": true,
+      "path": "select/07_Stranger_Things_(Alan_Walker_Remix)_Kygo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Again (feat. XXXTENTACION) [Alan Walker Remix]",
+      "artist": "Noah Cyrus feat. XXXTENTACION",
+      "has_synced": true,
+      "path": "select/08_Again_(feat._XXXTENTACION)_[Alan_Walker_Remix]_Noah_Cyrus_feat._XXXTENTACION.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Again (Alan Walker Remix)",
+      "artist": "Noah Cyrus",
+      "has_synced": true,
+      "path": "select/09_Again_(Alan_Walker_Remix)_Noah_Cyrus.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "All Night (Alan Walker Remix)",
+      "artist": "Steve Aoki feat. Lauren Jauregui",
+      "has_synced": true,
+      "path": "select/10_All_Night_(Alan_Walker_Remix)_Steve_Aoki_feat._Lauren_Jauregui.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "All Night (Alan Walker Remix)",
+      "artist": "Steve Aoki",
+      "has_synced": true,
+      "path": "select/11_All_Night_(Alan_Walker_Remix)_Steve_Aoki.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Issues (Alan Walker Remix)",
+      "artist": "Julia Michaels",
+      "has_synced": true,
+      "path": "select/12_Issues_(Alan_Walker_Remix)_Julia_Michaels.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Legends Never Die (Alan Walker Remix)",
+      "artist": "League of Legends feat. Against the Current & Mako",
+      "has_synced": true,
+      "path": "select/13_Legends_Never_Die_(Alan_Walker_Remix)_League_of_Legends_feat._Against_the_Current_&_Mako.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lonely Together (feat. Rita Ora) [Alan Walker Remix]",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/14_Lonely_Together_(feat._Rita_Ora)_[Alan_Walker_Remix]_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Lonely Together (Alan Walker Remix)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/15_Lonely_Together_(Alan_Walker_Remix)_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Malibu (Alan Walker Remix)",
+      "artist": "Miley Cyrus",
+      "has_synced": true,
+      "path": "select/16_Malibu_(Alan_Walker_Remix)_Miley_Cyrus.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Malibu (Alan Walker Remix)",
+      "artist": "Miley Cyrus",
+      "has_synced": true,
+      "path": "select/17_Malibu_(Alan_Walker_Remix)_Miley_Cyrus.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Alan Walker - The Spectre",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/18_Alan_Walker_-_The_Spectre_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Alan Walker - The Spectre (Lyrics)",
+      "artist": "7clouds",
+      "has_synced": true,
+      "path": "select/19_Alan_Walker_-_The_Spectre_(Lyrics)_7clouds.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Alan Walker - The Spectre",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/20_Alan_Walker_-_The_Spectre_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Alan Walker - The Spectre",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/21_Alan_Walker_-_The_Spectre_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Alan Walker - The Spectre",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/22_Alan_Walker_-_The_Spectre_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Alan Walker - The Spectre",
+      "artist": "Bass Slayer",
+      "has_synced": true,
+      "path": "select/23_Alan_Walker_-_The_Spectre_Bass_Slayer.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Spectre",
+      "artist": "Alan Walker",
+      "has_synced": false,
+      "path": "select/pl_01_The_Spectre_Alan_Walker.txt"
+    }
+  ]
+}
